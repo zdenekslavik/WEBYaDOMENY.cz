@@ -1,5 +1,6 @@
 # WEBYaDOMENY.cz
-Toto je prodejní stránka, vytvořená přes https://webyadomeny.cz API jako ukázka pro vaši implementaci.
+Toto je ukázka prodejní stránky pro prodej domény, vytvořená přes https://webyadomeny.cz API.
+Na základě této ukázky můžete využívat WebM API, které je popsáno zde: https://webyadomeny.cz/api
 
 Pro použití API WEBYaDOMÉNY.CZ budete potřebovat bezplatný API klíč.
 Pro získání API klíče:
