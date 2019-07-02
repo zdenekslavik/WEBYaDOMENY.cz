@@ -41,7 +41,7 @@ die();
 <title><?php echo $marketdata['nazev'] ?></title>
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta name="description" content="<?php echo substr($marketdata['popis'], 0, 180) . '...'; ?>">
-<meta name="author" content="https://socialweb.cz">
+<meta name="author" content="WebM.cz">
 <meta name="MobileOptimized" content="320">
 <meta name="robots" content="noindex">
 <meta property="og:title" content="NA PRODEJ: <?php echo $marketdata['nazev'] ?>"/>
