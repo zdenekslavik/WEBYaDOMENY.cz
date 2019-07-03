@@ -9,3 +9,11 @@ Po schválení vašeho účtu API klíč naleznete zde:
 https://socialweb.webm.cz/profile#api
 
 Poté již jen stačí API klíč nahradit v souboru index.php
+
+Ukázky prodeujní stránky (index.php):
+
+http://303.cz/
+http://svetovezpravy.cz
+http://odkomunity.cz
+http://krasnazdrava.cz
+http://admax.cz
