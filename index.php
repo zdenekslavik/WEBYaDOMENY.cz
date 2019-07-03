@@ -7,7 +7,7 @@ Pro správné fungování této stránky potřebujete pouze API klíč, který z
 
 $api_url = "https://api.webm.cz";
 //api klíč vložte níže
-$api_key = "98e7e6fdbb079e6ba8fabb9950ae3d98";
+$api_key = "f886167846150a221c5806a0ac2ccfc7";
 //nahraďte vašim API klíčem, to je také jediné nastavení, které musíte pro správnou funkčnost této stránky udělat, tento přednastavený API klíč je limitován na 10 dotazů za minutu, přičemž ho může kdokoliv využívat, to znamená, že tato stránka ne-vždy bude na 100% fungovat, naopak váš osobní API klíč může zpracovávat i stovky dotazů za minutu!
 $domain = $_SERVER['HTTP_HOST'];
 $api_type = "market_url";
