@@ -12,7 +12,7 @@ Poté již jen stačí API klíč nahradit v souboru index.php
 
 Ukázky prodeujní stránky (index.php):
 
-http://303.cz/
+http://303.cz/<br>
 http://svetovezpravy.cz
 http://odkomunity.cz
 http://krasnazdrava.cz
