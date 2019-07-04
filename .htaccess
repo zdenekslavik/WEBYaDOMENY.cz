@@ -1,0 +1,11 @@
+<IfModule mod_rewrite.c>
+#this will redirect all old backlinks to the index.php
+#pokud nahrajete tento htaccess soubor, následně bude všechno přesměrováno na index.php
+
+   RewriteEngine On
+
+   RewriteCond %{REQUEST_FILENAME}  -f [OR]
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteRule ^(.*)$ index.php [L,QSA]
+
+</IfModule> 
